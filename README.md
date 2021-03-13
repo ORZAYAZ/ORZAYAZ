@@ -1,0 +1,3 @@
+- Olá, me chamo Pedro, mas 'ORZAYAZ' foi o melhor nickname que pensei quando menor.
+- Hoje.. meu foco é aprender Linux, suas capacidades e limitções, uso como meu SO primário e com certeza é meu hobby principal.
+- Não sou expert ou mestre mas sonho em ser um, nunca desista!
